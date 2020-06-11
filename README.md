@@ -12,4 +12,4 @@ It downloads the course cases, pdf's and other materials hosted on S3. Youtube v
 
 ## todo
 
-- [] authenticate with user credentials
+- [ ] authenticate with user credentials
