@@ -10,6 +10,10 @@ It downloads the course cases, pdf's and other materials hosted on S3. Youtube v
 * run the command `pip install -r requirements.txt` to install dependencies
 * run the command `scrapy runspider localSpider.py` to download the course content
 
+# optional: extract zip files
+
+* run `python unpack.py` and zipfiles will be extrated to `./extracted` folder
+
 ## todo
 
 - [ ] authenticate with user credentials
