@@ -2,7 +2,7 @@
 *.pdf
 files/
 .vscode/
-.extracted/
+extracted/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
