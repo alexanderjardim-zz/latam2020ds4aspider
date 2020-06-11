@@ -13,4 +13,4 @@ It downloads the course cases, pdf's and other materials hosted on S3. Youtube v
 ## todo
 
 - [ ] authenticate with user credentials
-- [ ] add extraction capabilities
+- [X] add extraction capabilities
